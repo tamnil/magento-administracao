@@ -5,9 +5,13 @@ Cuidado com comandos sql diretamente ao banco, é preferivel usar a api do magen
 Use com cautela
 
 **reset_de_clientes.sql** - reset de clientes via sql
-**reset_de_logs.sql** -  reset** de logs de banco de dados
+
+**reset_de_logs.sql** -  reset de logs de banco de dados
+
 **reset_de_vendas.sql** - reset de logs de vendas e transações
+
 **reset_produtos_magento.sql** - reset de produtos
+
 
 php:
 Arquivos de php para desenvolvimento magento
