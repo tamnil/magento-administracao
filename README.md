@@ -17,10 +17,6 @@ Use com cautela
 
 php_inicia_sessao.php - inicia sessao de bootstrap padrao do magento
 
-skeleton:
+## skeletons:
 
 Templates de programação
-
-
-
-
